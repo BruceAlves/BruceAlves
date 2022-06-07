@@ -2,7 +2,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/bruce-wallace%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-461127232/"><i>Bruce Wallace</i></a> 😃️</h1>
  
   </a><br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <p align="center"></h2>
 </div>
 
 
