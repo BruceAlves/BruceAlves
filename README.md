@@ -21,7 +21,5 @@
     <a href="https://www.linkedin.com/in/bruce-wallace%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-461127232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
    </div align="center"
-  
-  <div>
  ![Snake animation](https://github.com/BruceAlves/BruceAlves/blob/output/github-contribution-grid-snake.svg)
     </div>
