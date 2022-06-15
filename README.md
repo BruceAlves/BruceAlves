@@ -3,6 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruce+Wallace;I'm+22+years+old;I+from+Brasil,+MG;I+study+Systems+development+analysis+at+UNOPAR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+<div align="center">
+  <a href="https://github.com/BruceAlves">
+  <img  src="https://user-images.githubusercontent.com/105837280/173899396-a53b411a-7beb-49a7-ba0f-25a831674a5b.png" width=450px/> 
+</div>
+
   </a><br>
   <p align="center"></h2>
 </div>
