@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Black&size=20&center=true&vCenter=true&width=1000&lines=I'm,+looking+for+a+job+in+the+development+area,;+I'm+interested+for+chasllenges,;+l+adapt+easily+to+changes,;+and+l+seek+continuous+learning;+Thanks+you+for+visiting!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/BruceAlves">
   <img  src="https://user-images.githubusercontent.com/105837280/173899396-a53b411a-7beb-49a7-ba0f-25a831674a5b.png" width=450px/> 
 </div>
@@ -16,20 +16,12 @@
 </div>
 
 
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
+![](https://github-readme-stats.vercel.app/api?username=BruceAlves&theme=merko&hide_border=false&include_all_commits=true&count_private=false) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center"><i>"</i></p> -->
 
-<div align="center">
-  <a href="https://github.com/BruceAlves">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BruceAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=BruceAlves&theme=gotham&hide_border=true&area=true)
-
+[![](https://visitcount.itsvg.in/api?id=BruceAlves&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Main skills:
    <div style="display: inline_block"><br>
