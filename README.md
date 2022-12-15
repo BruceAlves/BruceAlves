@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Black&size=20&center=true&vCenter=true&width=1000&lines=I'm,+looking+for+a+job+in+the+development+area,;+I'm+interested+for+chasllenges,;+l+adapt+easily+to+changes,;+and+l+seek+continuous+learning;+Thanks+you+for+visiting!+:%29)](https://git.io/typing-svg) 
 
  
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"/>
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"/>
 
-<img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&theme=transparent&hide_border=true"/><br><br><br><br>
+<img align="left" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&theme=transparent&hide_border=true"/><br><br><br><br>
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br>
 
