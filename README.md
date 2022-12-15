@@ -3,25 +3,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruce+Wallace;I'm+23+years+old;I+from+Brasil,+MG;I+study+Systems+development+analysis+at+UNOPAR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Black&size=20&center=true&vCenter=true&width=1000&lines=I'm,+looking+for+a+job+in+the+development+area,;+I'm+interested+for+chasllenges,;+l+adapt+easily+to+changes,;+and+l+seek+continuous+learning;+Thanks+you+for+visiting!+:%29)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Black&size=20&center=true&vCenter=true&width=1000&lines=I'm,+looking+for+a+job+in+the+development+area,;+I'm+interested+for+chasllenges,;+l+adapt+easily+to+changes,;+and+l+seek+continuous+learning;+Thanks+you+for+visiting!+:%29)](https://git.io/typing-svg)
+ 
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"/>
 
-<div align="left">
-  <a href="https://github.com/BruceAlves">
-  <img  src="https://user-images.githubusercontent.com/105837280/173899396-a53b411a-7beb-49a7-ba0f-25a831674a5b.png" width=450px/> 
-</div>
+<img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&theme=transparent&hide_border=true"/><br><br><br><br>
 
-  </a><br>
-  <p align="center"></h2>
-</div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br>
 
-
-![](https://github-readme-stats.vercel.app/api?username=BruceAlves&theme=merko&hide_border=false&include_all_commits=true&count_private=false) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=BruceAlves&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Main skills:
    <div style="display: inline_block"><br>
@@ -34,7 +24,7 @@
   </div><br>  
    
 ### Tools:
-   <div style="display: inline_block"><br>
+   <div style="display: inline_block" ><br>
     <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
     <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
