@@ -10,7 +10,7 @@
 
 <img align="left" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&theme=transparent&hide_border=true"/><br><br><br><br>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br><br><br>
 
 
 ### Main skills:
