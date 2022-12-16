@@ -10,37 +10,7 @@
 
 <img align="left" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&theme=transparent&hide_border=true"/><br><br><br><br>
 
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br><br><br>
+<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br><br><br>
 
 
-### Main skills:
-   <div style="display: inline_block"><br>
-   <img align="center" alt="BruceAlves-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-   <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-   <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-   <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-    <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="BruceAlves-c" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  </div><br>  
-   
 
-  
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BruceAlves}/count.svg" /></p> 
-<br></div>
-  
-<div align="center">
-  <a href="https://api.whatsapp.com/send?phone=553197127523"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="brucewallace144@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/bruce-wallace%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-461127232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/BruceAlves/BruceAlves/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
