@@ -6,30 +6,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Black&size=20&center=true&vCenter=true&width=1000&lines=I'm,+looking+for+a+job+in+the+development+area,;+I'm+interested+for+chasllenges,;+l+adapt+easily+to+changes,;+and+l+seek+continuous+learning;+Thanks+you+for+visiting!+:%29)](https://git.io/typing-svg) 
 
  
-<div  align="center">   
-    <h1 align="center">Main skills</h1>
-   <img align="center" alt="BruceAlves-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-   <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-   <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-   <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-    <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="BruceAlves-c" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- <img align="center" height="50" width="50" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   </div><br>
-   
-   <div  align="center">   
-    <h1 align="center">Other Knowledge</h1>
-   <img align="center" alt="BruceAlves-html" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-   <img align="center" alt="BruceAlves-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<div  align="left">   
+    <h1 align="left" >Main skills</h1><br>
+   <img align="center" alt="BruceAlves-html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+   <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+   <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+   <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+    <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="BruceAlves-c" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img align="center" height="35 width="35" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    </div><br>
 
-   <div  align="center">   
-    <h1 align="center">Tools</h1>
-  <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-   <img align="center" alt="BruceAlves-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-   <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-   <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="BruceAlves-Js" height="50" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+   <div  align="left">   
+    <h1 align="left">Tools</h1>
+    <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+    <img align="center" alt="BruceAlves-html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+                                                                                                                                       <img align="center" alt="BruceAlves-html" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="BruceAlves-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
    </div><br>
 
 
