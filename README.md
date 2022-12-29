@@ -29,19 +29,14 @@
    </div><br>
 
 
- <div>
-  
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"/>
-  
-  <img align="right" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&theme=transparent&hide_border=true"/>
-</div>
-<br><br>
- 
- <div>
-  <img align="center" height="170em" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
-  <img align="right" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAlves&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
-<br>
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruceAlves&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BruceAlves&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BruceAlves&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BruceAlves&theme=nord_dark) |
+| :-: | :-: | :-: |
 
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=553197127523"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
