@@ -10,8 +10,7 @@
     <h1 align="left" >Main skills</h1><br>
    <img align="center" alt="BruceAlves-html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
    <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-   <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-   <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+     <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
     <img align="center" alt="BruceAlves-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="BruceAlves-c" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img align="center" height="35 width="35" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
