@@ -40,7 +40,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/BruceAlves/BruceAlves/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
    
