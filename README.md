@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Desenvolvedor%20.NET&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!,+MY+NAME+is+Bruce+Wallace;I'm+25+years+old;I+from+Brasil,+MG;I+study+Systems+development+analysis+at+UNOPAR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!,+MY+NAME+is+Bruce+Wallace;I'm+26+years+old;I+from+Brasil,+MG;I+study+Systems+development+analysis+at+UNOPAR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Black&size=20&center=true&vCenter=true&width=1000&lines=I'm,+looking+for+a+job+in+the+development+area,;+I'm+interested+for+chasllenges,;+l+adapt+easily+to+changes,;+and+l+seek+continuous+learning;+Thanks+you+for+visiting!+:%29)](https://git.io/typing-svg) 
 
@@ -31,7 +31,7 @@
 | :-: | :-: | :-: |
 
 <div align="center">
-  <a href="https://api.whatsapp.com/send?phone=553197127523"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5531997952584"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="brucewallace144@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/bruce-wallace%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-461127232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
