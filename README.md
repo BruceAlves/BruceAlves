@@ -7,8 +7,8 @@
 
 
  
- [![My Skills](https://skillicons.dev/icons?i=js,css,cs,react,bootstrap,jquery,docker,dotnet&perline=3)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,css,cs,react,bootstrap,docker,graphql,dotnet&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,jquerybootstrap,)](https://skillicons.dev)
  
 
  
