@@ -7,16 +7,15 @@
 
 
  
- [![My Skills](https://skillicons.dev/icons?i=js,css,cs,react,bootstrap,docker,graphql,dotnet&perline=3)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=html,jquery,bootstrap,)](https://skillicons.dev)
- 
+### 🚀 Tecnologias Principais
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,redux,graphql&perline=8)](https://skillicons.dev)
 
- 
-  
-   
-   
-   
- [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,mysql,visualstudio,vscode&perline=3)](https://skillicons.dev)
+### 🎨 Front-end & Estilo
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap&perline=8)](https://skillicons.dev)
+
+### 🛠️ DevOps, Banco de Dados & Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,mysql,aws,postman,visualstudio,vscode,rabbitmq&perline=8)](https://skillicons.dev)
+
    <div  align="left">   
    <img align="center" alt="BruceAlves-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
    </div><br>
