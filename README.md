@@ -14,10 +14,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap&perline=8)](https://skillicons.dev)
 
 ### 🛠️ DevOps, Banco de Dados & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,mysql,aws,postman,visualstudio,vscode,rabbitmq&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,mysql,aws,postman,visualstudio,vscode,rabbitmq,azure,postgres&perline=12)](https://skillicons.dev)
 
    <div  align="left">   
-   <img align="center" alt="BruceAlves-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+   <img align="center" alt="BruceAlves-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
    </div><br>
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruceAlves&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=BruceAlves&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
