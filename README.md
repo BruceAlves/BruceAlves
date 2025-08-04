@@ -8,7 +8,7 @@
 
  
 ### 🚀 Tecnologias Principais
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,redux,graphql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,redux,graphql,nodejs&perline=8)](https://skillicons.dev)
 
 ### 🎨 Front-end & Estilo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap&perline=8)](https://skillicons.dev)
